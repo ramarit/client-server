@@ -1,6 +1,5 @@
 //
 //  client.cpp
-//  hw4
 //
 //  Created by Ryan Amarit on 5/16/16.
 //  Copyright © 2016 Ryan Amarit. All rights reserved.
