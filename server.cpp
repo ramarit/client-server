@@ -64,7 +64,7 @@ void * Guess(void * newsocket);
 
 
 int main(int argc, const char * argv[]) {
-    std::stringstream stream;
+     std::stringstream stream;
     int sockfd, portno;
     //stores the size of the address of the client. This is needed for the accept system call.
     socklen_t clilen;

@@ -19,7 +19,7 @@ You will need to run server.cpp first
 
 ./server [port number] (enter your desired port number. ex: 8080)
 
-./client cs1.seattleu.edu [port number] (enter same port number as server)
+./client 127.0.0.1 [port number] (enter same port number as server)
 
 The server will now run. Every time a client connects you will see a message that says
 Thread Created. Once a client connects the client's guess they need to answer will be
