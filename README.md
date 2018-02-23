@@ -9,9 +9,7 @@ Open the directory where the files are located. client.cpp and server.cpp
 
 To compile: 
 <br />
-g++ client.cpp -o client 
-
-g++ server.cpp -o server -lpthread
+make client
 
 To run:
 <br />
