@@ -8,6 +8,7 @@ To begin: you will need to open two or more windows of your Linux interface.
 Open the directory where the files are located. client.cpp and server.cpp
 
 To compile: 
+<br />
 g++ client.cpp -o client 
 
 g++ server.cpp -o server -lpthread
