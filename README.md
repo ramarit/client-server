@@ -14,6 +14,7 @@ g++ client.cpp -o client
 g++ server.cpp -o server -lpthread
 
 To run:
+<br />
 You will need to run server.cpp first
 
 ./server [port number] (enter your desired port number. ex: 8080)
